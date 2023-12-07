@@ -1,0 +1,13 @@
+# Name,Gender,GPA,Hobby1,Hobby,...
+# each has 3 required fields, a list of hobby fields. The hobby fields are optional
+# these are separated by ","
+# there is no space after the ",", if there is space after ",", it is malformed. 
+John Doe,M,3.500,Basketball,VolleyBall,Tennis
+Amy Doe,F,4.000,BasketBall,Badminton,Swimming,Chess,Computer Games
+# This is comment
+     # Is this also a comment?               
+Jane Doe,L,3.950,Volleyball,Computer Games,Watching Movies
+# is the following consider a valid record?
+#,,3.950,VolleyBall
+Will Smith,M,N/A,Acting
+Tom Brady,M,9.000,Football

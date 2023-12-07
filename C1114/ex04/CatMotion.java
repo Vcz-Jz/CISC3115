@@ -1,0 +1,2 @@
+interface CatMotion extends FelineMotion {
+}
